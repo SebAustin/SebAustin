@@ -1,51 +1,67 @@
 # Hi there 👋 — I'm Sebastien Henry
 
-## 🚀 Senior BI Developer & Solution Architect
+## 🚀 Senior BI Developer | AWS/Cloud Engineer | AI/ML Solutions Architect
 
-I'm a passionate technologist with a deep commitment to driving **business intelligence** transformations for modern enterprises. With hands-on experience leading end-to-end data solutions, I thrive at the intersection of analytics, architecture, and emerging technologies.
+Versatile technology executive recognized for driving **innovation**, **digital transformation**, and **cloud analytics strategy** for global organizations. I have a proven track record of delivering large-scale BI projects, architecting AI-powered insights, and building secure, scalable data platforms in high-growth environments. My passion sits at the intersection of **analytics**, **architecture**, and **emerging technologies**.
 
 ---
 
 ### 🛠️ Core Expertise
 
-- **Business Intelligence:** Design, development, and deployment of robust BI solutions, from data modeling to insightful dashboards.
-- **Solution Architecture:** Crafting scalable, maintainable, and future-proof architectures—on-premise or in any cloud environment.
-- **Data Visualization:** Storytelling with data using best practices and advanced features in **Tableau** and other visualization tools.
-- **Cloud Data Platforms:** Leveraging the latest **AWS** services (Redshift, Glue, S3, Athena) for high-availability and cost-effective analytics.
-- **Enterprise Analytics:** Orchestrating analytics pipelines and self-service BI that empower business users to make data-driven decisions.
+- **Business Intelligence:** Full lifecycle BI solution architecture, executive dashboard design, and platform migrations using **Tableau** (Desktop, Server, Prep, Extensions).
+- **Solution Architecture:** Expertise delivering robust, scalable cloud architectures using **AWS** (Redshift, Glue, S3, Athena) and modern data platforms (**Snowflake, Presto**).
+- **AI & Data Science:** AI/ML solution architecture, predictive analytics (TabPy), analytics agent orchestration, and seamless **LangChain/LangGraph** integration.
+- **Cloud Engineering:** End-to-end AWS/Cloud developer with hands-on focus on automation, cost management, and operational excellence.
+- **Cross-Functional Leadership:** Mentoring teams, leading industry hackathons, and presenting at industry events to share best practices.
+- **Distributed Ledger & Blockchain:** Interest in DeFi, smart contracts, and combining on-chain (Ethereum) and off-chain analytics with BI best practices.
+- **Data Integration & Automation:** Integration of APIs (Slack, Facebook, Twitter, Zoom, Tableau SDKs) for enhanced data flows.
+- **Full Stack Development:** JavaScript (React, Redux), Solidity; automation with Python.
 
 ---
 
-### 🌟 Technology Passions
+### 💡 What I've Accomplished
 
-- **Blockchain:** Fascinated by decentralized data, smart contracts, and the transformative potential of distributed ledger technology.
-- **Artificial Intelligence:** Exploring the power of machine learning, NLP, and generative AI to enhance business insights and automation.
-- **Tableau & Visualization:** Always on the hunt for new techniques to convert complex data into actionable, beautiful visual stories.
-- **AWS:** Architecting resilient, elastic, and cost-effective analytics solutions leveraging full-stack AWS capabilities.
-
----
-
-### 📈 What I Value
-
-- **Clarity:** Translating complex data into clear, actionable visual and analytical insights.
-- **Innovation:** Exploring and adopting cutting-edge tools—especially where BI, Blockchain, Cloud, and AI converge.
-- **Collaboration:** Partnering with data engineers, scientists, and business stakeholders to deliver high-impact solutions.
-- **Continuous Learning:** Staying curious about what's next in data, analytics, and intelligent automation.
+- **Tableau Cloud Migration:** Led migration of 4,100+ data sources to Tableau Cloud with seamless JWT authentication and security integration, impacting thousands of users at Indeed.
+- **Advanced Integration & AI Enablement:** Spearheaded rollouts for Tableau Pulse, TabPy migration, and the development of the AI-powered Cortex SlackBot for real-time analytics.
+- **Cost Efficiency & Operational Excellence:** Achieved a 27% reduction in BI platform cloud footprint, establishing data trust and major cost savings.
+- **Empowering Business Users:** Designed executive dashboards, launched Tableau Mobile/Slack experiences, and coached teams for self-service analytics.
+- **Thought Leadership:** Presented at industry events, hosted cross-functional hackathons, and enabled impactful data visualizations.
+- **Blockchain-Enabled BI:** Developed hybrid solutions bringing on-chain data to traditional BI for increased transparency and data innovation.
+- **AI-Driven Forecasting:** Implemented predictive pipelines with AWS SageMaker that boosted operational efficiency by 20%.
 
 ---
 
-### 🧩 Featured Projects
+### 🎓 Certifications & Education
 
-- **Real-Time Analytics Platform:** Architected a scalable pipeline processing 2B+ daily transactions on AWS, integrating with Tableau dashboards for instant insights.
-- **Blockchain-Enabled BI:** Developed a hybrid solution combining on-chain data sources (Ethereum) with traditional BI tools for transparent analytics.
-- **AI-Driven Forecasting:** Implemented predictive models that improved operational efficiency by 20% using AWS SageMaker and custom algorithms.
+- **AI Agents with LangChain and LangGraph** (June 2025, Udacity)
+- **AI Trading Strategies** (June 2025, Udacity)
+- **Generative AI** (April 2025, Udacity)
+- **AWS Certified Developer Associate** (April 2024, AWS)
+- **AWS Certified Cloud Practitioner** (October 2021, AWS)
+- **Tableau Desktop Certified Associate** (November 2020, Tableau)
+- **Master’s in Computer Science** — Multimedia Data Autoprocessing  
+  Université d’Avignon et des pays du Vaucluse, France
+- **B.Sc. in Computer Science** — Computer Engineering Option  
+  Université d’Avignon et des pays du Vaucluse, France
+- **Software Engineering Certificate** (Math specialization)  
+  Institut universitaire technologique, Nice, France
 
 ---
 
-### 📬 Let’s Connect
+### 🧩 Technical Skills
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/sebastienhenry/
+- **Visualization & BI:** Tableau (Desktop, Server, Prep, Extensions), executive dashboard design
+- **Cloud & Big Data:** AWS, Snowflake, Presto
+- **Data Science & AI:** Python (ML/AI, TabPy), automation, analytics, LangChain/LangGraph
+- **Databases:** MySQL, PostgreSQL, Oracle, MongoDB, Redshift
+- **APIs/SDKs:** Facebook, Slack, Twitter, Zoom, Tableau SDKs
+- **Full Stack Dev:** JavaScript (React, Redux), Solidity
 
+---
+
+### 📫 Let’s Connect
+
+- 🔗 LinkedIn:(https://www.linkedin.com/in/sebastienhenry/)
 ---
 
 > **“Turning raw data into real-world impact.”**
