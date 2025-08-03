@@ -1,4 +1,4 @@
-# Hi there 👋 — I'm [Your Name]
+# Hi there 👋 — I'm Sebastien Henry
 
 ## 🚀 Senior BI Developer & Solution Architect
 
@@ -44,7 +44,7 @@ I'm a passionate technologist with a deep commitment to driving **business intel
 
 ### 📬 Let’s Connect
 
-- 🔗 [LinkedIn: https://www.linkedin.com/in/sebastienhenry/]
+- 🔗 LinkedIn: https://www.linkedin.com/in/sebastienhenry/
 
 ---
 
