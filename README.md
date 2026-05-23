@@ -17,7 +17,7 @@ Ex-Indeed · Tableau Ambassador 2025 · AI Innovation Hackathon Winner · Based 
 
 ## 🚀 Featured Projects
 
-### 🏦 [MCP Financial Data Server](https://github.com/SebAustin/mcp-financial-data-server)
+### 🏦 [MCP Financial Data Server](https://github.com/SebAustin/mcp-financial-data)
 > SEC EDGAR · FRED · Polygon.io · OAuth 2.1 · Claude Citations API · GitHub Actions
 
 Production MCP server with citation-grounded 10-K extraction, deterministic eval harness (1.0 citation coverage), OAuth 2.1 + PKCE, and nightly CI/CD regression gates at 85%+ test coverage.
@@ -27,7 +27,7 @@ Production MCP server with citation-grounded 10-K extraction, deterministic eval
 
 ---
 
-### 🤖 [Autonomous Knowledge Agent](https://github.com/SebAustin/autonomous-knowledge-agent)
+### 🤖 [Autonomous Knowledge Agent](https://github.com/SebAustin/Autonomous-Knowledge-Agent)
 > LangGraph · LangChain · FAISS · OpenAI · MCP
 
 Multi-agent customer support system using LangGraph Supervisor Pattern — 4 specialized agents, RAG pipeline with FAISS vector store, MCP adapter layer, full test coverage.
@@ -41,7 +41,7 @@ Multi-agent customer support system using LangGraph Supervisor Pattern — 4 spe
 
 ---
 
-### 🧬 [NVIDIA Nemotron Reasoning Challenge](https://github.com/SebAustin/nvidia-nemotron-reasoning)
+### 🧬 [NVIDIA Nemotron Reasoning Challenge](https://github.com/SebAustin/NVIDIA-Nemotron-Model-Reasoning-Challenge)
 > Python · QLoRA · GRPO · DPO · vLLM · TRL
 
 8-phase reproducible ML research pipeline on a 30B MoE model — rsLoRA, model soup averaging, custom GRPO reward functions, silent training/inference divergence fix. 4× L4 GPUs on Kaggle.
