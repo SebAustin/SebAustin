@@ -2,20 +2,21 @@
 
 > *I build AI systems and the data infrastructure they run on.*
 
-Ex-Indeed · Tableau Ambassador 2025 · AI Innovation Hackathon Winner · Based in Austin TX
+Applied AI Engineer at **Action Company** · Tableau Ambassador 2025 · Austin TX
 
 ---
 
-## 🔧 What I Build
+## 🔧 How I Work
 
-- **Agentic AI systems** — multi-agent pipelines, LangGraph Supervisor Pattern, LLM-powered automation
-- **MCP Servers** — production-grade Model Context Protocol implementations at enterprise scale
-- **Data infrastructure** — Snowflake pipelines, semantic layers, dbt, BI platforms
-- **LLM fine-tuning** — QLoRA, LoRA, GRPO, DPO on large models
+- **Traceability first.** Every number should reconcile to a source of truth. If it can't, the feature isn't done.
+- **Evals gate AI features.** No eval set, no ship. Free-text interfaces without a measurable target are how AI products quietly break.
+- **Cost is a design constraint.** Warehouse sizing, caching, and query shape are part of the architecture, not a cleanup task.
 
 ---
 
 ## 🚀 Featured Projects
+
+These are personal projects, built on public data. They're where I test patterns before I trust them anywhere else.
 
 ### 🏦 [MCP Financial Data Server](https://github.com/SebAustin/mcp-financial-data)
 > SEC EDGAR · FRED · Polygon.io · OAuth 2.1 · Claude Citations API · GitHub Actions
