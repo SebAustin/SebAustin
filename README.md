@@ -79,5 +79,3 @@ Cloud        │ AWS (Developer Associate) · Azure · GCP
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sebastienhenry-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/sebastienhenry)
 [![Email](https://img.shields.io/badge/Email-henry.sebastien1982@gmail.com-D14836?style=flat&logo=gmail)](mailto:henry.sebastien1982@gmail.com)
-
-> Open to **Senior / Staff AI Engineer · Analytics Engineer · Solutions Architect** roles — remote or Austin TX
